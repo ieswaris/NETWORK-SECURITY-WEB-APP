@@ -6,15 +6,24 @@ The project focuses on developing a Django-based web application for predictive 
 
 ## Features
 Focus on leveraging machine learning for threat detection in network traffic.
+
 Develop a model to efficiently identify and predict potential network attacks.
+
 Utilizes Django framework, building an interactive platform for users to view, analyze, and act on threat detection results.
+
 An interactive platform for users to view, analyze, and act on threat detection results.
+
 Documentation covering the model’s architecture, training, and evaluation.
-Requirements
+
+## Requirements
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
 Development Environment:Anaconda with Jupyter Notebook and Djanjo. *Processor : Intel® Core™ i7 processor 14650HX (30M Cache, up to 5.20 GHz)
+
 Version Control: Implementation of Git for collaborative development and effective code management.
+
 IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
+
 Additional Dependencies Includes : Hard disk : minimum 80 GB RAM : minimum 4 GB
 
 ## System Architecture
